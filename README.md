@@ -1,5 +1,5 @@
 Module name:    CCM_1989.py
-Author:         Dinesh Shenoy <astroshenoy@gmail.com>
+Author:         Dinesh Shenoy <shen0130@umn.edu>
 Version:        Python 2.7
 Purpose:        Computes interstellar extinction per Cardelli, Clayton
                 & Mathis (CCM (1989)).
